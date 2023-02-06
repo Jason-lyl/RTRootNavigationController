@@ -1,0 +1,7 @@
+module RTRootNavigationController {
+  header "RTRootNavigationController/RTRootNavigationController.h"
+  header "RTRootNavigationController/UIViewController+RTRootNavigationController.h"
+  export *
+  export *
+  module * { export * }
+}
